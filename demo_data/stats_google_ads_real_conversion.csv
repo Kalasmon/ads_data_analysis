@@ -1,0 +1,11 @@
+stats_day,campaign_id,campaign_name,campaign_state,account_name,conversions,conversion_name
+2018/6/18,xxxxxxxxxx,campaign_01,enabled,CPAv-DVIP-Z-TH,88,first_open
+2018/6/18,xxxxxxxxxx,campaign_02,enabled,CPAv-DVIP-Z-TH,80,first_open
+2018/6/18,xxxxxxxxxx,campaign_03,enabled,CPAv-DVIP-Z-TH,119,eventlinked
+2018/6/18,xxxxxxxxxx,campaign_04,enabled,CPAv-DVIP-Z-TH,23,first_open
+2018/6/18,xxxxxxxxxx,campaign_05,enabled,CPAv-DVIP-Z-TH,98,first_open
+2018/6/18,xxxxxxxxxx,campaign_06,enabled,CPAv-DVIP-Z-TH,77,first_open
+2018/6/18,xxxxxxxxxx,campaign_07,enabled,CPAv-DVIP-Z-TH,121,eventlinked
+2018/6/18,xxxxxxxxxx,campaign_08,enabled,CPAv-DVIP-Z-TH,69,first_open
+2018/6/18,xxxxxxxxxx,campaign_09,enabled,CPAv-DVIP-Z-TH,99,eventlinked
+2018/6/18,xxxxxxxxxx,campaign_10,enabled,CPAv-DVIP-Z-TH,124,eventlinked

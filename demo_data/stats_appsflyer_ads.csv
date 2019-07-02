@@ -1,0 +1,101 @@
+stats_day,media_source,campaign_name,campaign_id,adset_name,adset_id,ad_name,ad_id,channel,installs,retention_day_1,linkd_conn_uniq_user,linkd_conn_event_counter,complete_reg_uniq_user,complete_reg_event_counter,purchase_uniq_user,purchase_event_counter,revenue,platform
+2018/6/17,googleadwords_int,c001,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,1,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c002,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,1,0,0,0,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c003,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,2,0,0,0,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c004,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,2,1,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c005,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,2,1,0,0,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c006,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,13,2,9,9,9,9,0,0,0,1
+2018/6/17,ShowbizLive_Share,c007,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,None,1,0,1,1,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c008,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,2,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c009,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,7,4,6,6,7,7,0,0,0,1
+2018/6/17,Facebook Ads,c010,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,6,0,2,2,5,5,0,0,0,1
+2018/6/17,Facebook Ads,c011,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,61,23,44,44,44,44,0,0,0,1
+2018/6/17,Facebook Ads,c012,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,1,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c013,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,4,1,4,4,4,4,0,0,0,1
+2018/6/17,googleadwords_int,c014,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,57,14,31,31,41,41,0,0,0,1
+2018/6/17,Facebook Ads,c015,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,1,0,0,0,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c016,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,39,13,32,33,34,34,0,0,0,1
+2018/6/17,Facebook Ads,c017,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,7,4,5,5,7,7,0,0,0,1
+2018/6/17,ShowbizLive_Share,c018,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,None,2,1,2,2,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c019,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,12,2,6,6,9,9,0,0,0,1
+2018/6/17,Facebook Ads,c020,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Messenger,5,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c021,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,3,1,2,2,2,2,0,0,0,1
+2018/6/17,googleadwords_int,c022,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,48,10,19,19,19,19,0,0,0,1
+2018/6/17,Facebook Ads,c023,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,2,0,2,2,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c024,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,234,76,177,177,209,209,0,0,0,1
+2018/6/17,Facebook Ads,c025,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,1,0,0,0,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c026,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,4,2,2,2,4,4,0,0,0,1
+2018/6/17,Facebook Ads,c027,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,2,1,1,1,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c028,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,1,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c029,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,6,1,4,4,4,4,0,0,0,1
+2018/6/17,Facebook Ads,c030,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,3,0,3,3,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c031,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,1,0,1,1,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c032,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,10,3,5,5,4,4,0,0,0,1
+2018/6/17,Facebook Ads,c033,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,8,1,3,3,5,5,0,0,0,1
+2018/6/17,googleadwords_int,c034,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,88,17,42,42,33,33,0,0,0,1
+2018/6/17,googleadwords_int,c035,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,20,4,14,14,14,14,0,0,0,1
+2018/6/17,googleadwords_int,c036,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Search,8,3,7,7,7,7,0,0,0,1
+2018/6/17,googleadwords_int,c037,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Search,21,7,12,12,14,14,0,0,0,1
+2018/6/17,Facebook Ads,c038,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,2,1,2,2,2,2,0,0,0,1
+2018/6/17,googleadwords_int,c039,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,72,22,49,52,36,36,0,0,0,1
+2018/6/17,Facebook Ads,c040,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,1,0,0,0,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c041,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,1,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c042,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,1,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c043,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,2,0,2,2,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c044,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,2,1,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c045,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,1,0,1,1,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c046,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,5,3,4,4,5,5,0,0,0,1
+2018/6/17,Facebook Ads,c047,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,8,4,6,6,8,8,0,0,0,1
+2018/6/17,Facebook Ads,c048,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,1,0,1,1,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c049,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,4,1,2,2,3,3,0,0,0,1
+2018/6/17,googleadwords_int,c050,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,78,20,32,32,38,39,0,0,0,1
+2018/6/17,Facebook Ads,c051,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Messenger,228,44,93,93,117,117,0,0,0,1
+2018/6/17,Facebook Ads,c052,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,11,4,8,8,7,7,0,0,0,1
+2018/6/17,Facebook Ads,c053,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,26,6,12,12,14,14,0,0,0,1
+2018/6/17,Facebook Ads,c054,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,25,12,14,15,16,16,0,0,0,1
+2018/6/17,Facebook Ads,c055,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,40,15,27,27,27,27,0,0,0,1
+2018/6/17,Facebook Ads,c056,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,91,21,56,58,71,71,0,0,0,1
+2018/6/17,googleadwords_int,c057,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,56,10,31,31,29,29,0,0,0,1
+2018/6/17,Facebook Ads,c058,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,1,0,1,1,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c059,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,6,1,3,3,3,3,0,0,0,1
+2018/6/17,Facebook Ads,c060,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Messenger,1,0,1,1,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c061,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,2,0,1,1,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c062,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,45,15,29,29,33,33,0,0,0,1
+2018/6/17,googleadwords_int,c063,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,1,0,0,0,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c064,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Messenger,2,0,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c065,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,17,9,10,10,11,11,0,0,0,1
+2018/6/17,Facebook Ads,c066,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,7,4,6,6,2,2,0,0,0,1
+2018/6/17,googleadwords_int,c067,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,933,233,620,621,613,615,0,0,0,1
+2018/6/17,googleadwords_int,c068,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Search,7,1,4,4,4,4,0,0,0,1
+2018/6/17,Facebook Ads,c069,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,23,7,15,15,20,20,0,0,0,1
+2018/6/17,Facebook Ads,c070,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,7,2,3,3,3,3,0,0,0,1
+2018/6/17,googleadwords_int,c071,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,2,1,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c072,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,2,1,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c073,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,6,2,2,2,2,2,0,0,0,1
+2018/6/17,googleadwords_int,c074,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,33,13,26,26,16,16,0,0,0,1
+2018/6/17,Facebook Ads,c075,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,164,26,47,47,70,70,0,0,0,1
+2018/6/17,googleadwords_int,c076,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,221,75,154,156,127,128,0,0,0,1
+2018/6/17,Facebook Ads,c077,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,3,1,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c078,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,3,1,3,3,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c079,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,23,2,10,10,20,20,0,0,0,1
+2018/6/17,Facebook Ads,c080,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,4,1,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c081,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,3,1,2,2,2,2,0,0,0,1
+2018/6/17,ShowbizLive_Share,c082,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,None,1,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c083,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,7,1,3,3,5,5,0,0,0,1
+2018/6/17,googleadwords_int,c084,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,324,77,183,185,196,196,0,0,0,1
+2018/6/17,Facebook Ads,c085,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Messenger,7,2,3,3,4,4,0,0,0,1
+2018/6/17,Facebook Ads,c086,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,3,0,2,2,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c087,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Messenger,3,1,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c088,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,1,0,1,1,1,1,0,0,0,1
+2018/6/17,Facebook Ads,c089,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,4,0,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c090,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,3,1,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c091,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,21,13,13,13,11,11,0,0,0,1
+2018/6/17,Facebook Ads,c092,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,4,1,4,4,4,4,0,0,0,1
+2018/6/17,Facebook Ads,c093,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,3,1,2,2,2,2,0,0,0,1
+2018/6/17,Facebook Ads,c094,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,AudienceNetwork,1,0,0,0,0,0,0,0,0,1
+2018/6/17,Facebook Ads,c095,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Instagram,1,0,0,0,1,1,0,0,0,1
+2018/6/17,Twitter,c096,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,TAP,17,7,14,14,14,14,0,0,0,1
+2018/6/17,googleadwords_int,c097,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,16,2,6,6,7,7,0,0,0,1
+2018/6/17,googleadwords_int,c098,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,133,25,36,36,48,48,0,0,0,1
+2018/6/17,googleadwords_int,c099,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,UAC_Display,94,22,65,67,65,66,0,0,0,1
+2018/6/17,Facebook Ads,c100,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,Facebook,2,1,1,1,0,0,0,0,0,1

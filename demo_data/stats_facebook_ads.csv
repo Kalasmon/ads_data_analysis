@@ -1,0 +1,11 @@
+account_id,adset_id,ad_id,stats_day,country,platform,campaign_id,ad_name,adset_name,account_name,campaign_name,spend,impressions,action_video_view,action_mobile_app_install,action_link_click,uniq_action_link_click
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AD,0,c01,a01,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,0,1,1,0,0,0
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,0,c02,a02,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,0,1,0,0,0,0
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,0,c03,a03,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,0.01,1,0,0,0,0
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,2,c04,a04,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,7.58,2442,503,9,17,17
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,2,c05,a05,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,3.99,3086,497,10,27,27
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,2,c06,a06,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,0,250,46,0,5,5
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,2,c07,a07,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,0,51,7,0,3,2
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,2,c08,a08,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,1.68,2451,433,3,15,15
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,2,c09,a09,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,7.48,1045,110,6,13,13
+xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,2018/6/1,AE,2,c10,a10,xxxxxxxxxx,xxxxxxxxxx,xxxxxxxxxx,0,1,0,0,0,0

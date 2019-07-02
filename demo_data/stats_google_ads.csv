@@ -1,0 +1,11 @@
+stats_day,campaign_id,campaign_name,campaign_state,account_name,budget,impressions,clicks,conversions,cost,country,mcc,account_id,platform
+2018/6/18,xxxxxxxxxx,campaign_01,paused,a01,50000000,8822,48,5,4.057799,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_02,enabled,a02,50000000,62181,552,94,60.91682,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_03,enabled,a03,50000000,71171,1154,64,53.635788,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_04,paused,a04,50000000,7434,66,5,4.617403,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_05,enabled,a05,50000000,22701,215,22,23.495959,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_06,enabled,a06,50000000,21006,356,70,53.019447,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_07,enabled,a07,50000000,61115,562,68,54.237837,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_08,enabled,a08,50000000,48788,499,75,60.09384,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_09,enabled,a09,50000000,27301,366,93,56.532983,TH,xxxxxxxxxx,xxxxxxxxxx,0
+2018/6/18,xxxxxxxxxx,campaign_10,enabled,a10,50000000,32026,541,67,54.256983,TH,xxxxxxxxxx,xxxxxxxxxx,0
