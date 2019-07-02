@@ -7,4 +7,13 @@
 2）如何不重不漏地整合不同平台的数据？
 
 
-幸好主流的广告平台（Google Facebook Twitter Snapchat等）和主流的追踪平台（appsflyer ajust等）都有非常成熟的API，本项目以最主流的两个
+主流的广告平台（Google Facebook Twitter Snapchat等）和主流的追踪平台（appsflyer ajust等）都有非常成熟的API，本项目以常用的两个广告平台和追踪平台做示例，展示数据的抓取和整合过程。
+
+# Google API 注意事项：
+
+1）API如果是Basic权限，每天请求次数额度为1w次；
+
+2）Google UAC 暂不支持直接导出 install 字段，因此最佳处理方式是另外以“conversion name”多导一次，通过筛选需要的conversion（如first open等）并匹配至Campaign Performance Report；
+
+3）Google UAC 目前导数的最小层级是campaign；
+
